@@ -1,7 +1,3 @@
-% All parts are done in this code.
-% Submitted by Ahana Biswas(180044) , Amit Kumar Saini(180080) and Vipul Jain(180869)
-
-
 global N M D
 % N x M is size of design matrix and D are no.of nonzero entries in w.
 N=20;
